@@ -1,0 +1,16 @@
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinhWeb_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinhWeb_Lab1.AssemblyInfoInputs.cache
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinhWeb_Lab1.AssemblyInfo.cs
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinhWeb_Lab1.csproj.CoreCompileInputs.cache
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\bin\Debug\net10.0\lapTrinhWeb_Lab1.exe
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\bin\Debug\net10.0\lapTrinhWeb_Lab1.deps.json
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\bin\Debug\net10.0\lapTrinhWeb_Lab1.runtimeconfig.json
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\bin\Debug\net10.0\lapTrinhWeb_Lab1.runtimeconfig.dev.json
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\bin\Debug\net10.0\lapTrinhWeb_Lab1.dll
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\bin\Debug\net10.0\lapTrinhWeb_Lab1.pdb
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinhWeb_Lab1.dll
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\refint\lapTrinhWeb_Lab1.dll
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinhWeb_Lab1.pdb
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinhWeb_Lab1.genruntimeconfig.cache
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\ref\lapTrinhWeb_Lab1.dll
+D:\DIem_Trung_Bình\lapTrinhWeb_Lab1\lapTrinhWeb_Lab1\obj\Debug\net10.0\lapTrinh.02458F3C.Up2Date
